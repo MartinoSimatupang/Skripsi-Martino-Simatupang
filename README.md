@@ -1,1 +1,0 @@
-"# hakCiptaProgramKomputerModelBO-RF" 
